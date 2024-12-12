@@ -1,4 +1,4 @@
-# Machine Learning Project
+.# Machine Learning Project
 
 This repository contains a professionally developed Jupyter Notebook that implements a comprehensive machine learning pipeline for data analysis and predictive modeling. It is designed to serve as a reference for advanced machine learning projects and real-world applications.
 
@@ -31,23 +31,17 @@ pip install -r requirements.txt
 
 ## Usage Instructions
 
-1. Clone this repository to your local machine:
-   bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
-   
-
-2. Open the Jupyter Notebook:
+1. Open the Jupyter Notebook:
    bash
    jupyter notebook Machine_Learning_ASS_Kavs.ipynb
    
 
-3. Follow the workflow outlined in the notebook to:
+2. Follow the workflow outlined in the notebook to:
    - Preprocess the dataset.
    - Perform exploratory data analysis.
    - Train and validate machine learning models.
 
-4. Adapt the notebook to your specific dataset and objectives as necessary.
+3. Adapt the notebook to your specific dataset and objectives as necessary.
 
 ## Project Structure
 
