@@ -60,11 +60,5 @@ We welcome contributions to enhance the project. To contribute:
 4. Push your branch to your fork (git push origin feature-name).
 5. Submit a pull request for review.
 
-## License
 
-This project is distributed under the MIT License. Refer to the LICENSE file for complete details.
 
-## Acknowledgments
-
-- Inspired by cutting-edge applications of machine learning.
-- Special thanks to contributors of open-source libraries such as Scikit-learn, Pandas, and others.
